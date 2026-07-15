@@ -4,7 +4,7 @@
       <strong>AI Engineer / Open-Source Contributor</strong>
     </td>
     <td align="right">
-      <a href="https://portfolio-website-beryl-five-91.vercel.app">Portfolio</a> ·
+      <a href="https://aryanbhargava.vercel.app/">Portfolio</a> ·
       <a href="https://linkedin.com/in/aryan-bhargava-0927b8316">LinkedIn</a> ·
       <a href="https://github.com/Aryanbhargava18">GitHub</a>
     </td>
