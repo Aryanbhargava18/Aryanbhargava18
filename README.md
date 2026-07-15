@@ -11,7 +11,12 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Agentic+AI+Systems;Multi-Agent+Architectures+%7C+RAG+Pipelines;Amazon+MLSS+'26+Scholar;Open-Source+Contributor+%7C+Pull+Shark+%C3%972" alt="Typing SVG" /></a>
+</p>
+
 Building things that sounded easier before I started building them — AI, software, open source, and the occasional side‑project rabbit hole.
+
 ▸ **Amazon MLSS '26 Scholar** · Selected from 134,421+ applicants for Amazon ML Summer School<br/>
 ▸ **[MirrorMind](https://github.com/Aryanbhargava18/MirrorMind)** · 4‑agent adversarial reasoning system with autonomous self‑correction loops<br/>
 ▸ **[AgriMind](https://github.com/Aryanbhargava18/AgriMind)** · hybrid intelligence pipeline fusing scikit‑learn yield prediction with ChromaDB RAG retrieval<br/>
@@ -19,9 +24,11 @@ Building things that sounded easier before I started building them — AI, softw
 ▸ **GSSoC 2025 Contributor** · GirlScript Summer of Code<br/>
 ▸ **Hacktoberfest 2024** · Merged 11+ pull requests across React, Node.js, and Three.js repositories<br/>
 ▸ **[Active Open‑Source Contributor](https://github.com/search?q=author%3AAryanbhargava18+is%3Apr+is%3Amerged&type=pullrequests)** contributions to community projects<br/>
+
 <p>
   <strong>Tech Stack ⚙️</strong>
   &nbsp;&nbsp;
+
   <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -39,4 +46,10 @@ Building things that sounded easier before I started building them — AI, softw
   <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-161B22?style=flat&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
