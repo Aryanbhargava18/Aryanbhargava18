@@ -11,15 +11,15 @@
   </tr>
 </table>
 
-Building things that sounded easier before I started building them — AI, software, open source, and the occasional side-project rabbit hole. 
+Building things that sounded easier before I started building them — AI, software, open source, and the occasional side‑project rabbit hole. 
 
 ▸ **Amazon MLSS '26 Scholar** · Selected from 134,421+ applicants for Amazon ML Summer School<br/>
-▸ **[MirrorMind](https://github.com/Aryanbhargava18/MirrorMind)** · 4-agent adversarial reasoning system with autonomous self-correction loops<br/>
-▸ **[AgriMind](https://github.com/Aryanbhargava18/AgriMind)** · hybrid intelligence pipeline fusing scikit-learn yield prediction with ChromaDB RAG retrieval<br/>
-▸ **[Capitize](https://github.com/Aryanbhargava18/Capitize)** · zero-downtime AI finance platform via async job orchestration & Gemini Vision<br/>
+▸ **[MirrorMind](https://github.com/Aryanbhargava18/MirrorMind)** · 4‑agent adversarial reasoning system with autonomous self‑correction loops<br/>
+▸ **[AgriMind](https://github.com/Aryanbhargava18/AgriMind)** · hybrid intelligence pipeline fusing scikit‑learn yield prediction with ChromaDB RAG retrieval<br/>
+▸ **[Capitize](https://github.com/Aryanbhargava18/Capitize)** · zero‑downtime AI finance platform via async job orchestration & Gemini Vision<br/>
 ▸ **GSSoC 2025 Contributor** · GirlScript Summer of Code<br/>
 ▸ **Hacktoberfest 2024** · Merged 11+ pull requests across React, Node.js, and Three.js repositories<br/>
-▸ **[Active Open-Source Contributor](https://github.com/search?q=author%3AAryanbhargava18+is%3Apr+is%3Amerged&type=pullrequests)** contributions to community projects<br/>
+▸ **[Active Open‑Source Contributor](https://github.com/search?q=author%3AAryanbhargava18+is%3Apr+is%3Amerged&type=pullrequests)** contributions to community projects<br/>
 
 <p>
   <strong>Tech Stack ⚙️</strong>
@@ -41,12 +41,24 @@ Building things that sounded easier before I started building them — AI, softw
   <img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-161B22?style=flat&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" /> 
+  <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
+</p>
 
-  <br/>
 ### GitHub Analytics 📊
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryanbhargava18&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanbhargava18&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
-  
+
+### Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanbhargava18&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+### Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryanbhargava18&theme=onedark&no-frame=true&border-radius=5" alt="GitHub Trophies" />
+</p>
