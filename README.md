@@ -47,14 +47,13 @@ Building things that sounded easier before I started building them — AI, softw
 ### GitHub Analytics 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanbhargava18&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanbhargava18&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryanbhargava18&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
 
-### Top Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanbhargava18&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanbhargava18&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
+</p>
+-stats.vercel.app/api/top-langs/?username=Aryanbhargava18&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ### Trophies
