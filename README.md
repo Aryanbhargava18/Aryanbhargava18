@@ -10,7 +10,7 @@
     </td>
   </tr>
 </table>
-
+</br>
 Building things that sounded easier before I started building them — AI, software, open source, and the occasional side‑project rabbit hole.
 ▸ **Amazon MLSS '26 Scholar** · Selected from 134,421+ applicants for Amazon ML Summer School<br/>
 ▸ **[MirrorMind](https://github.com/Aryanbhargava18/MirrorMind)** · 4‑agent adversarial reasoning system with autonomous self‑correction loops<br/>
