@@ -41,10 +41,12 @@ Building things that sounded easier before I started building them — AI, softw
   <img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-161B22?style=flat&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
-  <img src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Groq-161B22?style=flat&logo=groq&logoColor=F55036" alt="Groq" />
-  <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" /> 
+
+  <br/>
+### GitHub Analytics 📊
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryanbhargava18&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanbhargava18&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
+  
