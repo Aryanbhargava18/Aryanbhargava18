@@ -18,9 +18,9 @@ Building things that sounded easier before I started building them — AI, softw
 ▸ **[MirrorMind](https://github.com/Aryanbhargava18/MirrorMind)** · 4-agent adversarial reasoning system with autonomous self-correction loops<br/>
 ▸ **[AgriMind](https://github.com/Aryanbhargava18/AgriMind)** · hybrid intelligence pipeline fusing scikit-learn yield prediction with ChromaDB RAG retrieval<br/>
 ▸ **[Capitize](https://github.com/Aryanbhargava18/Capitize)** · zero-downtime AI finance platform via async job orchestration & Gemini Vision<br/>
-▸ **[krkn-chaos/krkn-ai](https://github.com/krkn-chaos/krkn-ai)** & **[koordinator-sh](https://github.com/koordinator-sh/koordinator)** · Contributing to CNCF cloud-native infrastructure & QoS scheduling<br/>
 ▸ **GSSoC 2025 Contributor** · GirlScript Summer of Code<br/>
-▸ **[20+ merged open-source pull requests](https://github.com/search?q=author%3AAryanbhargava18+is%3Apr+is%3Amerged&type=pullrequests)** · GitHub Pull Shark ×2 across CNCF, OWASP, and community projects<br/>
+▸ **Hacktoberfest 2024** · Merged 11+ pull requests across React, Node.js, and Three.js repositories<br/>
+▸ **[Active Open-Source Contributor](https://github.com/search?q=author%3AAryanbhargava18+is%3Apr+is%3Amerged&type=pullrequests)** · GitHub Pull Shark ×2 for consistent contributions to community projects<br/>
 
 <p>
   <strong>Tech Stack ⚙️</strong>
