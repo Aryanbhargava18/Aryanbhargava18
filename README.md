@@ -21,7 +21,7 @@ Building things that sounded easier before I started building them — AI, softw
 ▸ **[Capitize](https://github.com/Aryanbhargava18/Capitize)** · zero‑downtime AI finance platform via async job orchestration & Gemini Vision<br/>
 ▸ **GSSoC 2025 Contributor** · GirlScript Summer of Code<br/>
 ▸ **Hacktoberfest 2024** · Merged 11+ pull requests across React, Node.js, and Three.js repositories<br/>
-▸ **[Active Open‑Source Contributor](https://github.com/search?q=author%3AAryanbhargava18+is%3Apr+is%3Amerged&type=pullrequests)** contributions to community projects<br/>
+▸ **[Active Open‑Source Contributor]([https://github.com/search?q=author%3AAryanbhargava18+is%3Apr+is%3Amerged&type=pullrequests](https://github.com/search?q=author%3AAryanbhargava18+is%3Apr&type=pullrequests))** contributions to community projects<br/>
 
 <p>
   <strong>Tech Stack ⚙️</strong>
