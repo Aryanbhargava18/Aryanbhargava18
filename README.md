@@ -48,5 +48,5 @@ Building things that sounded easier before I started building them — AI, softw
   <img src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
   <img src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="HuggingFace" />
 </p>
