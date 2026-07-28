@@ -20,7 +20,7 @@ Building things that sounded easier before I started building them — AI, softw
 ▸ **[AgriMind](https://github.com/Aryanbhargava18/AgriMind)** · hybrid intelligence pipeline fusing scikit‑learn yield prediction with ChromaDB RAG retrieval<br/>
 ▸ **[Capitize](https://github.com/Aryanbhargava18/Capitize)** · zero‑downtime AI finance platform via async job orchestration & Gemini Vision<br/>
 ▸ **GSSoC 2025 Contributor** · GirlScript Summer of Code<br/>
-▸ **Hacktoberfest 2024** · Merged 11+ pull requests across React, Node.js, and Three.js repositories<br/>
+▸ **Hacktoberfest 2024** · Merged pull requests across React, Node.js, and Three.js repositories<br/>
 ▸ **[Active Open‑Source Contributor](https://github.com/search?q=author%3AAryanbhargava18+is%3Apr+is%3Amerged&type=pullrequests)** contributions to community projects<br/>
 
 <p>
