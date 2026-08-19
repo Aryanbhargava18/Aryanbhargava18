@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>FullStack AI Engineer / Open-Source Contributor</strong>
+      <strong>Backend AI Engineer / Open-Source Contributor</strong>
     </td>
     <td align="right">
       <a href="https://aryanbhargava.vercel.app/">Portfolio</a> ·
