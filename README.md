@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>Backend AI Engineer / Open-Source Contributor</strong>
+      <strong>AI/ML Systems Engineer  / Open-Source Contributor</strong>
     </td>
     <td align="right">
       <a href="https://aryanbhargava.vercel.app/">Portfolio</a> ·
@@ -13,7 +13,7 @@
 
 <br/>
 
-Building things that sounded easier before I started building them — AI, software, open source, and the occasional side‑project rabbit hole.
+Building things that sounded easier before I started building them — adversarial AI agents, CNCF cloud systems, and the occasional side-project rabbit hole.
 
 ▸ **Amazon MLSS '26 Scholar** · Selected from 134,421+ applicants for Amazon ML Summer School<br/>
 ▸ **[MirrorMind](https://github.com/Aryanbhargava18/MirrorMind)** · 4‑agent adversarial reasoning system with autonomous self‑correction loops<br/>
